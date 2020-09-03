@@ -1,4 +1,4 @@
-# practice
+# JP Morgan Software Engineering Virtual Internship
 # How to request from the server using curl
 
 # Query:
